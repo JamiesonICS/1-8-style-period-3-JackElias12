@@ -1,0 +1,50 @@
+table,th,td {
+  border:1px solid black;
+  padding:8px;
+}
+
+p {
+  padding:10px;
+}
+
+h1 {
+  text-align: center;
+  margin:0px;
+}
+
+#prefixtop{
+  text-align: center;
+  color: gray;
+  opacity:75%;
+  margin:0px;
+  margin-top: 15px;
+}
+
+#prefix{
+  text-align: center;
+  color: gray;
+  opacity:75%;
+  margin:0px;
+}
+
+nav {
+  overflow: hidden;
+  background-color: black;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  text-align: center;
+  text-decoration:none ;
+  padding: 40px;
+  font-size: 20px;
+  color:whitesmoke;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+nav a.hover{
+  background-color: red;
+}
+
